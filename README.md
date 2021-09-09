@@ -74,7 +74,13 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm start
    ```
-     
+ 
+4. Run Test and coverage report
+   ```sh
+   npm install jest
+   npm run test
+   ``` 
+   
 
 
 
