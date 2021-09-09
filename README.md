@@ -61,6 +61,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
+First import the project into a code editor of your choice, after importing the project, open a terminal and follow the instructions below
 
 1. Install NPM packages
    ```sh
